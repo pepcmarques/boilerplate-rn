@@ -11,7 +11,8 @@ This is a boilerplate for react-native applications. It uses: expo, react-native
 5. edit app.json (e.g.: app name, scheme, slug, icon, splash)
 6. edit app.config.json (e.g.: API links)
 7. change colors in `./app/index.js` (see Theming reference)
-8. install dependencies (npm -i)
+8. rename reducer to a better name
+9. install dependencies (npm -i)
 
 # References
 
