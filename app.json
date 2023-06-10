@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "ri-unesp-mob",
-    "slug": "ri-unesp-mob",
+    "name": "BOILERPLATE",
+    "scheme": "boilerplate",
+    "slug": "boilerplate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
